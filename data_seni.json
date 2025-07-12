@@ -1,0 +1,214 @@
+[
+    {
+        "zaman": "Neoklasik (1750–1830)",
+        "deskripsi": "Neoklasisisme dalam seni adalah sikap estetika berdasarkan seni Yunani dan Roma kuno, dengan ciri harmoni, kejelasan, pengendalian, dan idealisme.",
+        "lukisan": [
+            {
+                "judul": "The Death of Socrates",
+                "pelukis": "Jacques-Louis David",
+                "tahun": 1787,
+                "gaya": "Neoklasik",
+                "medium": "Minyak di kanvas",
+                "ukuran": "129,5 × 196,2 cm",
+                "lokasi": "The Metropolitan Museum of Art, New York",
+                "deskripsi": "Detik-detik terakhir Socrates, yang dihukum mati oleh Athena karena 'merusak pikiran anak muda'.",
+                "gambar": "images/the_death_of_socrates.jpg"
+            },
+            {
+                "judul": "Oath of the Horatii",
+                "pelukis": "Jacques-Louis David",
+                "tahun": 1784,
+                "gaya": "Neoklasik",
+                "medium": "Minyak di atas kanvas",
+                "ukuran": "330 × 425 cm",
+                "lokasi": "Musée du Louvre, Paris",
+                "deskripsi": "Tiga bersaudara Horatii bersumpah pada ayah mereka untuk berjuang demi Roma.",
+                "gambar": "images/oath.jpg"
+            }
+        ]
+    },
+    {
+        "zaman": "Romantisisme (1800–1850)",
+        "deskripsi": "Ciri khas Romantisisme adalah emosi, alam liar, dan kebebasan individu.",
+        "lukisan": [
+            {
+                "judul": "Liberty Leading the People",
+                "pelukis": "Eugène Delacroix",
+                "tahun": 1830,
+                "gaya": "Romantisisme",
+                "medium": "Minyak di kanvas",
+                "ukuran": "260 × 325 cm",
+                "lokasi": "Louvre Museum, Paris",
+                "deskripsi": "Sosok 'Liberty' memimpin Revolusi Prancis 1830, mengangkat bendera dan bayonet.",
+                "gambar": "images/liberty_leading_the_people.jpg"
+            },
+            {
+                "judul": "The Raft of the Medusa",
+                "pelukis": "Théodore Géricault",
+                "tahun": "1818–1819",
+                "gaya": "Romantisisme",
+                "medium": "Minyak di kanvas",
+                "ukuran": "491 × 716 cm",
+                "lokasi": "Louvre Museum, Paris",
+                "deskripsi": "Menggambarkan tragedi nyata tenggelamnya kapal Medusa dan perjuangan hidup penumpangnya.",
+                "gambar": "images/raft_of_the_medusa.jpg"
+            }
+        ]
+    },
+    {
+        "zaman": "Realisme (1850–1880)",
+        "deskripsi": "Realisme menampilkan kehidupan nyata dan kerasnya kehidupan kelas pekerja, tanpa idealisasi.",
+        "lukisan": [
+            {
+                "judul": "The Gleaners",
+                "pelukis": "Jean-François Millet",
+                "tahun": 1857,
+                "gaya": "Realisme",
+                "medium": "Minyak di atas kanvas",
+                "ukuran": "83.8 × 111.8 cm",
+                "lokasi": "Musée d'Orsay, Paris",
+                "deskripsi": "Tiga perempuan miskin memungut sisa gandum. Simbol kerja keras dan kritik ketimpangan ekonomi.",
+                "gambar": "images/the_gleaners.jpg"
+            },
+            {
+                "judul": "The Stone Breakers",
+                "pelukis": "Gustave Courbet",
+                "tahun": 1849,
+                "gaya": "Realisme",
+                "medium": "Minyak di atas kanvas",
+                "ukuran": "165 × 257 cm",
+                "lokasi": "Sebelumnya di Dresden, Jerman (Hancur saat PD II)",
+                "deskripsi": "Dua buruh jalan memecah batu, menggambarkan kerasnya kehidupan pekerja tanpa romantisasi.",
+                "gambar": "images/the_stone_breakers.jpg"
+            }
+        ]
+    },
+    {
+        "zaman": "Impresionisme (1860–1890)",
+        "deskripsi": "Ciri Impresionisme adalah cahaya alami, sapuan kuas cepat, dan penggambaran lanskap atau kehidupan sehari-hari.",
+        "lukisan": [
+            {
+                "judul": "Impression, Sunrise",
+                "pelukis": "Claude Monet",
+                "tahun": 1872,
+                "gaya": "Impresionisme",
+                "medium": "Minyak di atas kanvas",
+                "ukuran": "48 × 63 cm",
+                "lokasi": "Musée Marmottan Monet, Paris",
+                "deskripsi": "Pelabuhan Le Havre saat fajar dengan sapuan kuas cepat dan kontras warna.",
+                "gambar": "images/impression_sunrise.jpg"
+            },
+            {
+                "judul": "Dance at Le Moulin de la Galette",
+                "pelukis": "Pierre-Auguste Renoir",
+                "tahun": 1876,
+                "gaya": "Impresionisme",
+                "medium": "Minyak di atas kanvas",
+                "ukuran": "131 × 175 cm",
+                "lokasi": "Musée d'Orsay, Paris",
+                "deskripsi": "Pesta dansa di taman Montmartre, menggambarkan kebahagiaan rakyat biasa.",
+                "gambar": "images/moulin_de_la_galette.jpg"
+            },
+            {
+                "judul": "The Water Lily Pond",
+                "pelukis": "Claude Monet",
+                "tahun": 1899,
+                "gaya": "Impresionisme / Menuju Abstrak",
+                "medium": "Minyak di atas kanvas",
+                "ukuran": "89.5 × 100 cm",
+                "lokasi": "National Gallery, London",
+                "deskripsi": "Kolam teratai dengan jembatan lengkung bergaya Jepang di taman pribadi Monet.",
+                "gambar": "images/water_lily_pond.jpg"
+            }
+        ]
+    },
+    {
+        "zaman": "Post-Impresionisme (1880–1905)",
+        "deskripsi": "Menggabungkan eksperimen warna dan bentuk dengan pendekatan yang lebih subjektif.",
+        "lukisan": [
+            {
+                "judul": "Starry Night",
+                "pelukis": "Vincent van Gogh",
+                "tahun": 1889,
+                "gaya": "Post-Impresionisme",
+                "medium": "Minyak di atas kanvas",
+                "ukuran": "73.7 × 92.1 cm",
+                "lokasi": "Museum of Modern Art (MoMA), New York",
+                "deskripsi": "Langit malam bergolak di atas desa dengan sapuan kuas emosional dan refleksi spiritual.",
+                "gambar": "images/starry_night.jpg"
+            },
+            {
+                "judul": "The Basket of Apples",
+                "pelukis": "Paul Cézanne",
+                "tahun": 1893,
+                "gaya": "Post-Impresionisme",
+                "medium": "Minyak di atas kanvas",
+                "ukuran": "65 × 80 cm",
+                "lokasi": "Art Institute of Chicago, Amerika Serikat",
+                "deskripsi": "Still life dengan perspektif yang disengaja tidak logis sebagai eksperimen bentuk dan ruang.",
+                "gambar": "images/basket_of_apples.jpg"
+            },
+            {
+                "judul": "Vision After the Sermon",
+                "pelukis": "Paul Gauguin",
+                "tahun": 1888,
+                "gaya": "Post-Impresionisme / Simbolisme",
+                "medium": "Minyak di atas kanvas",
+                "ukuran": "72.2 × 91 cm",
+                "lokasi": "National Gallery of Scotland, Edinburgh",
+                "deskripsi": "Perempuan Breton membayangkan Yakub bergulat dengan malaikat setelah mendengar khotbah.",
+                "gambar": "images/vision_after_the_sermon.jpg"
+            }
+        ]
+    },
+    {
+        "zaman": "Modern (1900–1970-an)",
+        "deskripsi": "Mencakup berbagai aliran seperti Ekspresionisme, Kubisme, Surealisme, hingga Abstrak.",
+        "lukisan": [
+            {
+                "judul": "The Scream",
+                "pelukis": "Edvard Munch",
+                "tahun": 1893,
+                "gaya": "Ekspresionisme",
+                "medium": "Minyak, tempera, pastel di atas karton",
+                "ukuran": "91 × 73.5 cm",
+                "lokasi": "National Gallery dan Munch Museum, Oslo",
+                "deskripsi": "Sosok yang berteriak dalam keputusasaan di jembatan, simbol universal kecemasan eksistensial.",
+                "gambar": "images/the_scream.jpg"
+            },
+            {
+                "judul": "Les Demoiselles d'Avignon",
+                "pelukis": "Pablo Picasso",
+                "tahun": 1907,
+                "gaya": "Kubisme (awal)",
+                "medium": "Minyak di atas kanvas",
+                "ukuran": "243.9 × 233.7 cm",
+                "lokasi": "Museum of Modern Art (MoMA), New York",
+                "deskripsi": "Lima wanita dalam gaya geometris datar, tonggak awal Kubisme.",
+                "gambar": "images/les_demoiselles_d'avignon.jpg"
+            },
+            {
+                "judul": "The Persistence of Memory",
+                "pelukis": "Salvador Dalí",
+                "tahun": 1931,
+                "gaya": "Surealisme",
+                "medium": "Minyak di atas kanvas",
+                "ukuran": "24 × 33 cm",
+                "lokasi": "Museum of Modern Art (MoMA), New York",
+                "deskripsi": "Jam meleleh di lanskap mimpi, melambangkan waktu yang tidak stabil dan ketidaksadaran.",
+                "gambar": "images/the_persistence_of_memory.jpg"
+            },
+            {
+                "judul": "Composition VII",
+                "pelukis": "Wassily Kandinsky",
+                "tahun": 1913,
+                "gaya": "Abstrak",
+                "medium": "Minyak di atas kanvas",
+                "ukuran": "200 × 300 cm",
+                "lokasi": "State Tretyakov Gallery, Moskow",
+                "deskripsi": "Lukisan abstrak besar seperti musik visual tanpa objek yang bisa dikenali.",
+                "gambar": "images/composition_vii.jpg"
+            }
+        ]
+    }
+]
